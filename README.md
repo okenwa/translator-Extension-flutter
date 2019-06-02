@@ -1,4 +1,4 @@
-# translator-Extension-flutter
+#translate_extension
 A new Flutter project for internation flutter hacktacton Enugu Nigeria by Team Flutter-Beasts_042
 
 #Hack19
